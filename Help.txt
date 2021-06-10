@@ -1,0 +1,4 @@
+#Install firt pyhton 3.9.0 after click python needs.
+
+#Inside sample.txt 40k high balance adress ready for search,but if you want to add more just paste in sample.txt.
+
